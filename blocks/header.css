@@ -80,3 +80,36 @@
 .header__intro-button:hover {
     opacity: .7;
 }
+
+
+@media screen and (max-width: 1365px) {
+    
+}
+
+
+@media screen and (max-width: 800px) {
+    .header {
+        background: url(../images/bg.png) top right no-repeat;
+        padding: 20px 0 208px 0;
+    }
+    
+    .header__logo {
+        width: 52px;
+    }
+
+    .header__menu-item {
+        font-size: 12px;
+    }
+
+    .header__menu-item:not(:last-of-type) {
+        margin: 0 16px 0 0;
+    } 
+}
+
+
+@media screen and (max-width: 700px)  {
+    .header {
+        background: url(../images/bg-mob.png) top center no-repeat;
+        background-size: contain;
+    }
+}
