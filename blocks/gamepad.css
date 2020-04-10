@@ -1,0 +1,17 @@
+.gamepad {
+    max-width: 1920px;
+    line-height: 0;
+    margin: 0 auto;
+}
+
+.gamepad__image {
+    max-width: 100%;
+    margin: -15vw 0 0 0;
+}
+
+@media screen and (max-width: 1365px) {
+    .gamepad__image {
+        max-width: 100%;
+        margin: -10vw 0 0 0;
+    }
+}
