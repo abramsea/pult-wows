@@ -1,6 +1,8 @@
 .product-card {
     width: 308px;
-    border: 1px solid #0f1010;;
+    border: 1px solid #0f1010;
+    position: relative;
+    z-index: 1000;
 }
 
 .product-card:hover {

@@ -15,7 +15,7 @@
 }
 
 .captain__text {
-    font-size: 33px;
+    font-size: 32px;
     line-height: 47px;
     text-transform: uppercase;
     font-family: 'WarHelios';
@@ -66,5 +66,11 @@
 
     .captain__info .page-button {
         margin: 12px auto 0 auto;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .captain {
+        padding: 20px 0;
     }
 }

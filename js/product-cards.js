@@ -141,7 +141,7 @@
         },
 
         {
-            name: "Razer ManO'War (RZ04-01490100-R3G1)",
+            name: "Razer ManO'War",
             image: "28.png",
             link: "naushniki-razer-mano-war",       
         },
@@ -153,7 +153,7 @@
         },
 
         {
-            name: "Razer Thresher 7.1 USB (RZ04-02230100-R3M1)",
+            name: "Razer Thresher 7.1 USB",
             image: "30.png",
             link: "naushniki-razer-thresher-7-1-usb--rz04-02230100-r3m1",       
         },
@@ -182,7 +182,7 @@
         <div class="product-card">
             <img src="images/${item.image}" alt="${item.name}" class="product-card__image">
             <h3 class="product-card__title">${item.name}</h3>
-        <a target="_blank" href="https://pult.ru/product/${item.link}" class="product-card__button">Смотреть в каталоге</a>
+        <a target="_blank" href="https://pult.ru/product/${item.link}?from=pult-wows" class="product-card__button">Смотреть в каталоге</a>
     </div>
         `
     });
