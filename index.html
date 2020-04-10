@@ -7,11 +7,12 @@
     <link rel="icon" href="images/favicon.png">
     <link rel="stylesheet" href="styles/normalize.css">
     <link rel="stylesheet" href="styles/index.css">
+    <script src="https://kit.fontawesome.com/07d9614657.js"></script>
     <script src="js/jquery-3.4.1.min.js"></script>
     <title>не скупись покупай живопись</title>
 </head>
 <body class="body">
-    <header class="header">
+    <header class="header" id="header">
         <div class="wrapper">
             <div class="header__menu">
                 <a target="_blank" href="https://pult.ru"><img src="images/logo-white.svg" alt="логотип" class="header__logo"></a>
@@ -34,13 +35,13 @@
                     Мы собрали для вас лучшие игровые гарнитуры. <br>
                     Точное позиционирование и детализация звука дает <br> соревновательное преимущество. Играй на новом уровне!
                 </p>
-                <a href="#products" class="header__intro-button">Смотреть</a>
+                <a href="#products" class="page-button">Смотреть</a>
             </div>
         </div>
         
     </header>
-    <section class="products" id="products">
-        <div class="wrapper">
+    <div class="wrapper">
+        <section class="products" id="products">
             <h2 class="products__title">
                 Игровые наушники
             </h2>
@@ -67,9 +68,26 @@
                     <a target="_blank" href="https://pult.ru/product/naushniki-sennheiser-g4me-one-black" class="product-card__button">Смотреть в каталоге</a>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
+        <section class="captain">
+            <div class="captain__info">
+                <p class="captain__text">
+                    стань командиром легендарного линкора "Октябрьская революция" и получи премиум аккаунт на 7 дней от
+                </p>
+                <img src="images/wows-logo.png" alt="World of Warships" class="captain__logo">
+                <a href="https://pult.ru/action/?id=wows" class="page-button">Подробнее</a>
+            </div>
+            <img src="images/ship.png" alt="WOWs" class="captain__image">
+        </section>
+
+        <section class="products">
+            <div class="products__row products__row_scripted">
+                <script src="js/product-cards.js"></script>
+            </div>
+        </section>
+
+    </div>
     
     <script src="js/scroll.js"></script>
     <script src="js/back-to-top-show.js"></script>

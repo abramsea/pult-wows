@@ -61,25 +61,7 @@
 
 
 
-.header__intro-button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: radial-gradient(#00caf0, #006578);
-    color: #0f1010;
-    font-size: 26px;
-    line-height: 1;
-    width: 200px;
-    height: 60px;
-    border-radius: 81px;
-    text-decoration: none;
-    margin: 56px 0 0 0;
-    transition: all .3s;
-}
 
-.header__intro-button:hover {
-    opacity: .7;
-}
 
 
 @media screen and (max-width: 1365px) {
@@ -118,13 +100,6 @@
     
     .header__intro-text {
         font-size: 14px;
-        margin: 32px 0 0 0;
-    }
-
-    .header__intro-button {
-        font-size: 16px;
-        width: 124px;
-        height: 36px;
         margin: 32px 0 0 0;
     }
 }
