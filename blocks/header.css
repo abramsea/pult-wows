@@ -90,7 +90,7 @@
 @media screen and (max-width: 800px) {
     .header {
         background: url(../images/bg.png) top right no-repeat;
-        padding: 20px 0 208px 0;
+        padding: 20px 0 12px 0;
     }
     
     .header__logo {
@@ -104,10 +104,33 @@
     .header__menu-item:not(:last-of-type) {
         margin: 0 16px 0 0;
     } 
+
+    .header__title {
+        font-size: 30px;
+        margin: 400px 0 0 0;
+    }
+    
+    .header__subtitle {
+        font-size: 30px;
+        margin: 12px 0 0 0;
+    }
+    
+    
+    .header__intro-text {
+        font-size: 14px;
+        margin: 32px 0 0 0;
+    }
+
+    .header__intro-button {
+        font-size: 16px;
+        width: 124px;
+        height: 36px;
+        margin: 32px 0 0 0;
+    }
 }
 
 
-@media screen and (max-width: 700px)  {
+@media screen and (max-width: 600px)  {
     .header {
         background: url(../images/bg-mob.png) top center no-repeat;
         background-size: contain;

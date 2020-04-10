@@ -5,6 +5,7 @@
 .products__title {
     font-size: 40px;
     line-height: 1.2;
+    margin: 0;
 }
 
 .products__row {
@@ -12,3 +13,17 @@
     justify-content: space-between;
     margin: 40px 0 0 0;
 }
+
+@media screen and (max-width: 1365px) {
+    .products {
+        padding: 20px 0 40px 0; 
+    }
+    .products__title {
+        font-size: 26px;
+    }
+    .products__row {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+

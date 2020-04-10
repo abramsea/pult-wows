@@ -1,6 +1,5 @@
 .product-card {
     width: 308px;
-    height: 520px;
     border: 1px solid #0f1010;;
 }
 
@@ -43,4 +42,38 @@
     background: radial-gradient(#00caf0, #006578);  
     color: #0f1010;
     border: 1px solid #006578;
+}
+
+
+@media screen and (max-width: 1365px) {
+
+}
+
+@media screen and (max-width: 800px) {
+    .product-card {
+        width: 49%;
+    }
+
+    .product-card__title {
+        font-size: 16px;
+        line-height: 20px;
+        height: 3.5em;
+        max-width: 132px;
+        margin: 12px auto 0 auto;
+    }
+
+    .product-card__button {
+        width: 132px;
+        height: 24px;
+        font-size: 11px;
+        margin: 12px auto;
+    }
+    
+
+}
+
+
+
+@media screen and (max-width: 600px) {
+
 }
