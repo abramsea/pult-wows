@@ -26,154 +26,154 @@
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Gametrix vTrack MKI",
             image: "9.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-gametrix-vtrack-mki",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Beyerdynamic DT 290 MK II",
             image: "10.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "garnitura-biamp-dt-290-mk-ii--200-80-ohm-",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "KOSS GMR-540-ISO",
             image: "11.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-koss--gmr-540-iso",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Sennheiser GSP 300",
             image: "12.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-sennheiser-gsp-300",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Sennheiser GSP 350",
             image: "13.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-sennheiser-gsp-350",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "KOSS GMR-545-AIR USB",
             image: "14.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-koss-gmr-545-air-usb",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Beyerdynamic Custom GAME",
             image: "15.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-beyerdynamic-custom-game",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Ritmix RH-575M GAMING",
             image: "16.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-ritmix-rh-575m-gaming",       
         },
 
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Ritmix RH-570M GAMING",
             image: "17.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-ritmix-rh-570m-gaming",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Superlux HMC631 Dark Grey",
             image: "18.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "igrovaya-garnitura-superlux-hmc631-dark-grey",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Audio Technica ATH-G1",
             image: "19.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "igrovaya-garnitura-audio-technica-ath-g1",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Superlux HMC681EVO",
             image: "20.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "igrovaya-garnitura-superlux-hmc681evo",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Audio Technica ATH-G1WL",
             image: "21.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "igrovaya-garnitura-audio-technica-ath-g1wl",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Superlux HMD660X",
             image: "22.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "igrovaya-garnitura-superlux-hmd660x",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Superlux HMC660X",
             image: "23.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "igrovaya-garnitura-superlux-hmc660x",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Superlux HMC631 White",
             image: "24.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "igrovaya-garnitura-superlux-hmc631-white",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Superlux HMC660E",
             image: "25.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "igrovaya-garnitura-superlux-hmc660e",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Sennheiser GAME ZERO black",
             image: "26.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-sennheiser-g4me-zero-black",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Sennheiser GAME ONE white",
             image: "27.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-sennheiser-g4me-one-white",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Razer ManO'War (RZ04-01490100-R3G1)",
             image: "28.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-razer-mano-war",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "KOSS SB-45 USB",
             image: "29.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-koss-sb-45-usb",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Razer Thresher 7.1 USB (RZ04-02230100-R3M1)",
             image: "30.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-razer-thresher-7-1-usb--rz04-02230100-r3m1",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "Koss SB-45",
             image: "31.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-koss-sb45",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "KOSS GMR-545-AIR",
             image: "32.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-koss-gmr-545-air",       
         },
 
         {
-            name: "Beyerdynamic MMX 300 (2. Generation)",
+            name: "KOSS GMR-540-ISO USB",
             image: "33.png",
-            link: "naushniki-beyerdynamic-mmx-300--2--generation",       
+            link: "naushniki-koss-gmr-540-iso-usb",       
         }
     ]
 
